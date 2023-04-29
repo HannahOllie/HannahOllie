@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a new software developer looking to increase my skills and knowledge.
+I am currently learning JavaScript and Java. 
+I want to build a career out of software developing and I'm excited to get started.
+Ask me about my goals with TechElevator.
+Fun Fact: I have a degree in Psychology.
